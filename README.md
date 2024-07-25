@@ -1,6 +1,6 @@
 <div>
-  <img alt="site image" width="400" src="![Screenshot 2024-07-25 125459](https://github.com/user-attachments/assets/c2148abe-144a-49f0-8926-dcc219abaa34)">
-  <img alt="site image" width="400" src="![Screenshot 2024-07-25 125459](https://github.com/user-attachments/assets/c2148abe-144a-49f0-8926-dcc219abaa34)">
+  <img alt="site image" width="400" src="01.png">
+  <img alt="site image" width="400" src="02.png">
 </div>
 
 # Getting Started with Create React App
